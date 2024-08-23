@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "global",
-        "header"
+        "header",
+        "login"
     ]
 }
